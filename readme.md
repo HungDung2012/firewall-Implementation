@@ -11,6 +11,7 @@ FirewallManager.cpp: Triển khai chi tiết các phương thức của lớp Fi
 main.cpp: Chương trình chính, nơi người dùng tương tác để cấu hình tường lửa.
 
 *** cài đặt
+
 Lưu các file trên vào cùng một thư mục.
 Mở terminal và biên dịch chương trình:
 code
